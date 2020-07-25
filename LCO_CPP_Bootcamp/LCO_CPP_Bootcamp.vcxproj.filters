@@ -30,5 +30,14 @@
     <ClCompile Include="loopspointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="floatwithcaution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floattrycatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sneekpeekfunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
